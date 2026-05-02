@@ -59,5 +59,3 @@ My work sits at the intersection of secure software engineering, application sec
 ## Current Focus
 
 I am sharpening my work around AI security, secure-by-default cloud architecture, and AppSec automation: tools that catch real vulnerabilities without flooding engineers with noise.
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SahilPavaskar&show_icons=true&theme=transparent&hide_border=true)
