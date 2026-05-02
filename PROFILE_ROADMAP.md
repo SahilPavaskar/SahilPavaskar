@@ -4,7 +4,7 @@
 
 1. Create a public GitHub repository with the exact same name as your GitHub username.
 2. Add the `README.md` from this folder to the root of that repository.
-3. Replace all placeholders, especially `YOUR_USERNAME`, project links, contact links, and tech stack.
+3. Replace or refine any temporary profile details, especially project links, contact links, and tech stack.
 4. Pin 3-6 strong repositories or gists on your profile.
 5. Add a short bio, location if you want, profile photo, portfolio link, and social links in GitHub profile settings.
 
@@ -35,4 +35,3 @@
 - Open or review at least one useful issue or pull request.
 - Archive or hide stale experiments that distract from your best work.
 - Write one short technical note in a repo README, GitHub Discussion, or project documentation.
-
