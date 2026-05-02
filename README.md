@@ -1,46 +1,63 @@
-# Hi, I'm Sahil Pavaskar
+# Sahil Pavaskar
 
-I build software projects with a focus on learning fast, solving real problems, and turning ideas into working products.
+### Security Engineer | AppSec, AI Security, Cloud Security, Web Security
 
-Right now I am:
+I build security tooling and cloud systems that help engineering teams find risk earlier, fix it faster, and ship with confidence.
 
-- Working on: improving my projects and GitHub presence
-- Learning: full-stack development, automation, and AI-assisted workflows
-- Looking to collaborate on: useful apps, developer tools, and open source projects
-- Ask me about: building projects, learning in public, and improving as a developer
+My work sits at the intersection of secure software engineering, application security, cloud identity, and AI-assisted code review. I have 2+ years of security engineering experience across threat modeling, security design reviews, SAST tuning, vulnerability discovery, IAM hardening, and Python/Go automation in AWS-heavy environments.
 
-## Featured Work
+<p>
+  <a href="https://github.com/SahilPavaskar"><img src="https://img.shields.io/badge/GitHub-SahilPavaskar-181717?style=flat-square&logo=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/sahil-pavaskar-325b851b0"><img src="https://img.shields.io/badge/LinkedIn-Sahil%20Pavaskar-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://sahilpavaskar.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live-111827?style=flat-square&logo=vercel" alt="Portfolio" /></a>
+  <a href="mailto:sahilpavaskar81@gmail.com"><img src="https://img.shields.io/badge/Email-sahilpavaskar81%40gmail.com-BB001B?style=flat-square&logo=gmail" alt="Email" /></a>
+</p>
 
-| Project | What it does | Stack |
+---
+
+## What I Build
+
+- **AI-assisted secure code review** - tooling that combines static analysis with LLM review to surface actionable security findings, CWE context, and remediation guidance inside developer workflows.
+- **Cloud-native security automation** - AWS IAM, GuardDuty, Lambda, VPC, Terraform, and GitHub Actions pipelines for secure deployment, policy enforcement, and least-privilege operations.
+- **Web and application security systems** - threat models, design reviews, auth testing, injection/SSRF analysis, dependency risk checks, and secure SDLC automation.
+- **Identity and access security** - IAM policy review, OAuth 2.0/SAML/OIDC flows, SSO patterns, RBAC, secrets exposure checks, and cloud attack-path thinking.
+
+---
+
+## Featured Security Work
+
+| Project | What it demonstrates | Stack |
 | --- | --- | --- |
-| Coming soon | I am polishing projects to feature here. | GitHub |
-| Coming soon | I am polishing projects to feature here. | GitHub |
-| Coming soon | I am polishing projects to feature here. | GitHub |
+| [aws-guardduty-ir-lab](https://github.com/SahilPavaskar/aws-guardduty-ir-lab) | Hands-on AWS security lab where GuardDuty findings trigger EventBridge, Lambda response logic, SNS alerting, and optional EC2 containment with least-privilege IAM. | AWS GuardDuty, EventBridge, Lambda, SNS, EC2, IAM, Terraform, Python |
+| [cloud-identity-attack-path-analyzer](https://github.com/SahilPavaskar/cloud-identity-attack-path-analyzer) | In-progress security project focused on modeling cloud identity relationships, risky permissions, and privilege paths before they become exploitable. | Python, AWS IAM, graph analysis |
+| [Task-API-AWS](https://github.com/SahilPavaskar/Task-API-AWS) | Serverless backend showing AWS application engineering fundamentals: API Gateway routes, Lambda handlers, DynamoDB persistence, and SAM/CloudFormation deployment. | Python, AWS SAM, API Gateway, Lambda, DynamoDB |
+| [portfolio](https://sahilpavaskar.github.io/portfolio/) | Professional portfolio site for security engineering work, projects, certifications, and technical background. | React, Vite, TypeScript, Tailwind CSS |
 
-## Tech I Use
+---
 
-**Languages:** JavaScript/TypeScript, Python, SQL  
-**Frontend:** React, Next.js, Tailwind CSS  
-**Backend:** Node.js, Express, FastAPI, PostgreSQL  
-**Tools:** Git, GitHub Actions, Docker
+## Security Stack
 
-## What I Care About
+| Domain | Tools and technologies |
+| --- | --- |
+| AppSec and Web Security | Threat modeling, security design reviews, Burp Suite, SAST/DAST, Semgrep, Bandit, secure code review, vulnerability research |
+| Cloud Security | AWS IAM, GuardDuty, Lambda, VPC, CloudWatch, SNS, Terraform, Docker, Kubernetes, GitHub Actions |
+| AI Security and Automation | Gemini API, LLM-assisted review workflows, Python security tooling, GitHub Actions CI/CD, finding triage automation |
+| Software Engineering | Python, Go, Java, C/C++, TypeScript, JavaScript, Bash, FastAPI, Node.js, REST APIs |
+| Protocols and Identity | OAuth 2.0, SAML, OIDC, TLS/SSL, DNS, HTTP/S, RBAC, least privilege |
 
-- Shipping projects that solve real problems
-- Writing readable code and clear documentation
-- Learning in public and improving through feedback
-- Contributing to communities and open source projects
+---
 
-## GitHub Snapshot
+## Credentials
 
-<!-- These cards use a third-party public service. Remove this section if you prefer a cleaner profile. -->
+- MS in Computer Science, California State University East Bay - Expected May 2026
+- AWS Certified Solutions Architect - Associate - April 2026
+- CompTIA Security+ - February 2025
+- OSCP+ - Expected June 2026
+
+---
+
+## Current Focus
+
+I am sharpening my work around AI security, secure-by-default cloud architecture, and AppSec automation: tools that catch real vulnerabilities without flooding engineers with noise.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SahilPavaskar&show_icons=true&theme=transparent&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilPavaskar&layout=compact&theme=transparent&hide_border=true)
-
-## Connect
-
-- GitHub: [github.com/SahilPavaskar](https://github.com/SahilPavaskar)
-- LinkedIn: Add your LinkedIn profile here
-- Portfolio: Add your portfolio here
