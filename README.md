@@ -35,7 +35,7 @@ More recently I have been working on LLM security: indirect prompt injection, RA
 | [aws-guardduty-ir-lab](https://github.com/SahilPavaskar/aws-guardduty-ir-lab) | Hands-on AWS security lab where GuardDuty findings trigger EventBridge, Lambda response logic, SNS alerting, and optional EC2 containment with least-privilege IAM. | AWS GuardDuty, EventBridge, Lambda, SNS, EC2, IAM, Terraform, Python |
 | [cloud-identity-attack-path-analyzer](https://github.com/SahilPavaskar/cloud-identity-attack-path-analyzer) | In-progress security project focused on modeling cloud identity relationships, risky permissions, and privilege paths before they become exploitable. | Python, AWS IAM, graph analysis |
 | [Task-API-AWS](https://github.com/SahilPavaskar/Task-API-AWS) | Serverless backend showing AWS application engineering fundamentals: API Gateway routes, Lambda handlers, DynamoDB persistence, and SAM/CloudFormation deployment. | Python, AWS SAM, API Gateway, Lambda, DynamoDB |
-| [3D-Portfolio](https://sahilpavaskar.github.io/3D-Portfolio/) | Interactive 3D portfolio site for security engineering work, projects, certifications, and technical background, built with a real-time WebGL scene. | React, Vite, Three.js, React Three Fiber, TypeScript, Tailwind CSS |
+| [3D-Portfolio](https://sahilpavaskar.github.io/3D-Portfolio/) | Interactive portfolio site for security engineering work, projects, certifications, and technical background, with animated 3D transforms and parallax interactions throughout. | React, Tailwind CSS, Framer Motion, CSS 3D transforms |
 
 ---
 
