@@ -11,7 +11,7 @@ More recently I have been working on LLM security: indirect prompt injection, RA
 <p>
   <a href="https://github.com/SahilPavaskar"><img src="https://img.shields.io/badge/GitHub-SahilPavaskar-181717?style=flat-square&logo=github" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/sahil-pavaskar-325b851b0"><img src="https://img.shields.io/badge/LinkedIn-Sahil%20Pavaskar-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://sahilpavaskar.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live-111827?style=flat-square&logo=vercel" alt="Portfolio" /></a>
+  <a href="https://sahilpavaskar.github.io/3D-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live-111827?style=flat-square&logo=vercel" alt="Portfolio" /></a>
   <a href="mailto:sahilpavaskar81@gmail.com"><img src="https://img.shields.io/badge/Email-sahilpavaskar81%40gmail.com-BB001B?style=flat-square&logo=gmail" alt="Email" /></a>
 </p>
 
@@ -35,7 +35,7 @@ More recently I have been working on LLM security: indirect prompt injection, RA
 | [aws-guardduty-ir-lab](https://github.com/SahilPavaskar/aws-guardduty-ir-lab) | Hands-on AWS security lab where GuardDuty findings trigger EventBridge, Lambda response logic, SNS alerting, and optional EC2 containment with least-privilege IAM. | AWS GuardDuty, EventBridge, Lambda, SNS, EC2, IAM, Terraform, Python |
 | [cloud-identity-attack-path-analyzer](https://github.com/SahilPavaskar/cloud-identity-attack-path-analyzer) | In-progress security project focused on modeling cloud identity relationships, risky permissions, and privilege paths before they become exploitable. | Python, AWS IAM, graph analysis |
 | [Task-API-AWS](https://github.com/SahilPavaskar/Task-API-AWS) | Serverless backend showing AWS application engineering fundamentals: API Gateway routes, Lambda handlers, DynamoDB persistence, and SAM/CloudFormation deployment. | Python, AWS SAM, API Gateway, Lambda, DynamoDB |
-| [portfolio](https://sahilpavaskar.github.io/portfolio/) | Professional portfolio site for security engineering work, projects, certifications, and technical background. | React, Vite, TypeScript, Tailwind CSS |
+| [3D-Portfolio](https://sahilpavaskar.github.io/3D-Portfolio/) | Interactive 3D portfolio site for security engineering work, projects, certifications, and technical background, built with a real-time WebGL scene. | React, Vite, Three.js, React Three Fiber, TypeScript, Tailwind CSS |
 
 ---
 
